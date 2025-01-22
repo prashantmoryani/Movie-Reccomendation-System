@@ -14,7 +14,7 @@ Data Collection: Collects movie data, including titles, descriptions, and genres
 
 # 1. Clone the Repository
 
-git clone https://github.com/prashantmoryani/Movie-rV.git
+git clone https://github.com/prashantmoryani/Movie-Reccomendation-System.git
 
 # 2.Ensure you have Python installed.
 
